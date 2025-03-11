@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Ahorra tiempo y dinero con Mood Energi
+      text: Ahorra tiempo y dinero con Mod Energi
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
