@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Ahorra tiempo y dinero con ModHaus Energi
+      text: Ahorra tiempo y dinero con ModHaus
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
