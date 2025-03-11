@@ -9,9 +9,15 @@ sections:
       type: TitleBlock
     subtitle: SOLUCIONES A TU MEDIDA
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Tu hogar ideal con MoodHaus
+
+      Nuestro objetivo es conectar a nuestros clientes con las mejores
+      soluciones en casas prefabricadas, viviendas modulares y casas contenedor,
+      asegurando calidad, diseño y eficiencia en cada proyecto.
+
+
+      Nuestra plataforma te ayuda a encontrar la opción perfecta para tu estilo
+      de vida, ajustándose a tus necesidades y presupuesto.
     actions:
       - label: Get started
         altText: ''
