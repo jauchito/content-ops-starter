@@ -19,7 +19,7 @@ sections:
       Nuestra plataforma te ayuda a encontrar la opción perfecta para tu estilo
       de vida, ajustándose a tus necesidades y presupuesto.
     actions:
-      - label: Get started
+      - label: "\U0001F50D Explorar opciones"
         altText: ''
         url: /
         showIcon: false
