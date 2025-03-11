@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: "\U0001F3E1 Casas Prefabricadas | Contenedores | Viviendas Modulares | Casas de Madera"
       color: text-primary
       type: Badge
     elementId: ''
