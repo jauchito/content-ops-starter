@@ -68,7 +68,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 1️⃣
         subtitle: Numbers Done
         text: >
           Encuentra casas prefabricadas de una y dos plantas, contenedores
