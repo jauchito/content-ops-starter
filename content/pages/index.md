@@ -68,7 +68,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 1️⃣
+        title: "1️⃣\_Explora opciones:"
         subtitle: Numbers Done
         text: >
           Encuentra casas prefabricadas de una y dos plantas, contenedores
