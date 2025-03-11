@@ -70,10 +70,9 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          1️⃣ **Explora opciones**: Encuentra casas prefabricadas de una y dos
+          plantas, contenedores adaptados y casas de madera.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
