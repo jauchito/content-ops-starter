@@ -71,8 +71,8 @@ sections:
         title: 500k
         subtitle: Numbers Done
         text: >
-          1️⃣ **Explora opciones**: Encuentra casas prefabricadas de una y dos
-          plantas, contenedores adaptados y casas de madera.
+          Encuentra casas prefabricadas de una y dos plantas, contenedores
+          adaptados y casas de madera.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
